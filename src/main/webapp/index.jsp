@@ -16,7 +16,7 @@
             <h2 class="mb-4">Bienvenue sur la Gestion des Ressources Humaines</h2>
             
             <div class="d-grid gap-3 col-6 mx-auto">
-                <a href="connexion.jsp" class="btn btn-primary btn-lg">Connexion Administrateur</a>
+                <a href="connexion_admin.jsp" class="btn btn-primary btn-lg">Connexion Administrateur</a>
 <a href="connexionrespo.jsp" class="btn btn-secondary btn-lg">Connexion Responsable</a>
 <a href="connexionEmployer.jsp" class="btn btn-success btn-lg">Connexion Employé</a>
 
